@@ -8,6 +8,8 @@ import org.eclipse.swt.widgets.Text;
 import org.eclipse.wb.swt.SWTResourceManager;
 public class Calcular {
 	private static Text pantalla;
+	
+	// calculadora cientifica
 
 	static double operacio;
 	static double numero;
